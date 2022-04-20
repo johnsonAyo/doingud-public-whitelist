@@ -214,7 +214,10 @@ export default function Home() {
           {renderButton()}
         </div>
         <div>
-          <img className={styles.image} src="./doingud.jpeg" />
+          <img
+            className={styles.image}
+            src="https://i.ibb.co/Bwn0SPv/dg-og.jpg"
+          />
         </div>
       </div>
 
