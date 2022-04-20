@@ -203,7 +203,7 @@ export default function Home() {
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Doingud Whitelist</h1>
+          <h1 className={styles.title}>Welcome to Doingud Whitelist Page</h1>
           <div className={styles.description}>
             Its an NFT collection to give early accesss to the founding
             community of Doingud organisation
